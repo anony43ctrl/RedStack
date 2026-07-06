@@ -1,4 +1,3 @@
-
 hard_blocks:
   - code: pure_research_no_production
     description: "Research-aligned profile with no production-company tenure."
